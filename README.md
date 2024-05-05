@@ -15,6 +15,11 @@ git clone https://github.com/ZombieGeeK0/InfoGadget.git && cd InfoGadget && pyth
 
 ![imagen](https://github.com/ZombieGeeK0/InfoGadget/assets/158185295/8c45b10c-3509-40c9-acfa-6bbb3bffa34f)
 
-### 📧 CONTACTO 📧
+<hr>
 
-`[-]` Envía un email a `3xp017.contact@proton.me` o una invitación a través de `Discord` a `qwfkr`.
+`[ 📬 ]` Contacta conmigo a través de `Discord` mandando una invitación a `qwfkr.`
+
+    qwfkr
+`[ 📬 ]` Si lo prefieres, mándame un correo a `3xpl017.contact@proton.me.`
+
+    3xpl017.contact@proton.me.
