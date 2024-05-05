@@ -10,7 +10,7 @@
 `[-]` Instalación en `Linux:`
 
 ```shell
-git clone https://github.com/ZombieGeeK0/InfoGadget.git && cd InfoGadget && python3 install.sh
+git clone https://github.com/ZombieGeeK0/InfoGadget.git && cd InfoGadget && python3 install.sh && python3 main.py
 ```
 
 imagen
