@@ -13,6 +13,8 @@
 git clone https://github.com/ZombieGeeK0/InfoGadget.git && cd InfoGadget && python3 install.sh && python3 main.py
 ```
 
+<hr>
+
 ![imagen](https://github.com/ZombieGeeK0/InfoGadget/assets/158185295/8c45b10c-3509-40c9-acfa-6bbb3bffa34f)
 
 <hr>
